@@ -22,3 +22,5 @@ Landing page responsiva para um pet shop, feita com **Next.js**, **Tailwind CSS*
 ## 📸 Preview
 
 ![Demonstração do projeto](./public/demo.gif)
+
+## [Conheça o projeto](https://landing-page-pet-shop-sage.vercel.app/)
