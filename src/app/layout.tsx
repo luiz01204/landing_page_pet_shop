@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Open_Sans } from 'next/font/google';
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const roboto = Open_Sans({
   subsets: ['latin'],
@@ -23,6 +24,7 @@ export default function RootLayout({
     <html lang="pt-BR">
       <body className={roboto.className}>
         {children}
+        <SpeedInsights />
       </body>
     </html>
   );
