@@ -2,6 +2,8 @@
 
 Landing page responsiva para um pet shop, feita com **Next.js**, **Tailwind CSS** e **Embla Carousel**. Projeto focado em performance, responsividade e aquele visual que faz até o chihuahua ficar elegante.
 
+![Demonstração do projeto](./public/demo.gif)
+
 ## 🚀 Tecnologias usadas
 
 - [Next.js](https://nextjs.org/) – Framework React full-stack
@@ -17,10 +19,5 @@ Landing page responsiva para um pet shop, feita com **Next.js**, **Tailwind CSS*
 - SEO básico configurado
 - Código limpo e componentizado
 
-## 📸 Preview
-
-## 📸 Preview
-
-![Demonstração do projeto](./public/demo.gif)
 
 ## [Conheça o projeto](https://landing-page-pet-shop-sage.vercel.app/)
